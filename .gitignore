@@ -1,0 +1,10 @@
+.localstack/*
+.localstack-data/*
+.zips
+.terraform/*.tfstate
+.terraform/*.tfstate.backup
+.terraform/.terraform.lock.hcl
+.terraform/.terraform
+.terraform/zips
+phantomjs-1.9.8-linux-x86_64.tar.bz2
+Python-3.9.16.tgz
